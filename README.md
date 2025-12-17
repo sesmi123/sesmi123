@@ -10,9 +10,7 @@
 🚀 Ex-Software Engineer at Siemens Healthineers | Undergrad at NIT Calicut
 
 
-<p align="center">
-  <img src="[banner.png](https://github.com/sesmi123/sesmi123/blob/main/banner.jpg)" width="100%" height="100%" />
-</p>
+![banner](https://github.com/sesmi123/sesmi123/blob/main/banner.jpg)
 
 
 🧠 Areas of Interest
