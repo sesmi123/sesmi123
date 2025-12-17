@@ -1,4 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Sesmi Athiyarath
+
+🚀 Graduate Student at Northeastern University | Ex-Software Engineer at Siemens Healthineers | Undergrad at NIT Calicut
+
+🧠 Areas of Interest
+
+- Distributed & Scalable Systems
+- Cloud‑Native Architecture (Kubernetes, Docker, GitOps)
+- Backend Engineering (Python, Node.js)
+- MLOps & Federated Learning
+- Developer Platforms & Internal Tools
+- System Design, Performance & Reliability
 
 <!--
 **sesmi123/sesmi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
