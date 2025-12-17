@@ -35,6 +35,23 @@
   </a>
 </p>
 
+## Github Stats
+
+<table>
+<tr>
+<td width="50%">
+<img
+    src="https://github-readme-stats.vercel.app/api?username=sesmi123&show_icons=true&theme=neon&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
+    height="165"
+  />
+</td>
+<td width="50%">
+<img src="https://nirzak-streak-stats.vercel.app/?user=sesmi123&theme=neon&hide_border=false" />
+</td>
+</tr>
+</table>
+
+
 
 <!--
 **sesmi123/sesmi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
