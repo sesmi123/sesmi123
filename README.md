@@ -1,6 +1,18 @@
-## 👋 Hi, I'm Sesmi Athiyarath
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Sesmi Athiyarath</h1>
 
-🚀 Graduate Student at Northeastern University | Ex-Software Engineer at Siemens Healthineers | Undergrad at NIT Calicut
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=6AA7FF&center=true&vCenter=true&width=600&lines=Graduate+Student+at+Northeastern+University"
+    alt="Typing SVG"
+  />
+</p>
+
+🚀 Ex-Software Engineer at Siemens Healthineers | Undergrad at NIT Calicut
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
 
 🧠 Areas of Interest
 
