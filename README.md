@@ -35,29 +35,26 @@ I am currently pursuing a Master’s in Computer Science at Northeastern Univers
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
-<img
-    src="https://github-readme-stats.vercel.app/api?username=sesmi123&show_icons=true&theme=neon&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
-    height="165"
-  />
-</td>
-<td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=sesmi123&theme=neon&hide_border=false" />
-</td>
-</tr>
-</table>
+<table align="center"> 
+  <tr> 
+    <td width="50%"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=sesmi123&show_icons=true&theme=neon&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" /> 
+    </td> 
+    <td width="50%"> 
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sesmi123&theme=neon&hide_border=true" /> 
+    </td> 
+  </tr> 
+</table> 
 
-<table>
-<tr>
-<td width="25%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesmi123&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" /> 
-</td>
-<td width="75%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sesmi123&theme=tokyo-night&hide_border=true" />
-</td>
-</tr>
+<table align="center"> 
+  <tr> 
+    <td width="30%"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesmi123&layout=compact&theme=neon&hide_border=true" /> 
+    </td> 
+    <td width="70%"> 
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sesmi123&theme=tokyo-night&hide_border=true" /> 
+    </td> 
+  </tr> 
 </table>
 
 <p align="center">
