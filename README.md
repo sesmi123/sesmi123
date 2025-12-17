@@ -9,8 +9,9 @@
 
 🚀 Ex-Software Engineer at Siemens Healthineers | Undergrad at NIT Calicut
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="[banner.png](https://github.com/sesmi123/sesmi123/blob/main/banner.jpg)" width="100%" height="100%" />
 </p>
 
 
@@ -22,6 +23,11 @@
 - MLOps & Federated Learning
 - Developer Platforms & Internal Tools
 - System Design, Performance & Reliability
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 <!--
 **sesmi123/sesmi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
