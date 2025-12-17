@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Sesmi Athiyarath</h1>
 
-![banner](https://github.com/sesmi123/sesmi123/blob/main/banner.jpg)
+![banner](https://github.com/sesmi123/sesmi123/blob/main/neon-banner-minimal.png)
 
 
 <p align="center">
