@@ -10,9 +10,14 @@
   />
 </p>
 
-## 🚀 Ex-Senior Software Engineer at Siemens Healthineers | BTech at NIT Calicut
+### 🚀 Ex-Senior Software Engineer at Siemens Healthineers | BTech at NIT Calicut
 
-🧠 Areas of Interest
+## ✨ About me
+I am a Software Engineer with 4+ years of industry experience at Siemens Healthineers, where I worked on building scalable, high-performance, and cloud-native systems in the healthcare domain. My work spans distributed backend systems, MLOps platforms, and developer tooling, with a strong focus on reliability, performance, and real-world impact.
+
+I am currently pursuing a Master’s in Computer Science at Northeastern University, specializing in Distributed and Scalable Systems. I enjoy working close to system internals, understanding how things work under the hood, and building platforms that scale reliably.
+
+## 🧠 Areas of Interest
 
 - Distributed & Scalable Systems
 - Cloud‑Native Architecture (Kubernetes, Docker, GitOps)
@@ -22,20 +27,13 @@
 - System Design, Performance & Reliability
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
+## Skills
 
 <p align="center">
-  <a href="www.linkedin.com/in/sesmi-athiyarath">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:sesmias123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,kubernetes,docker,azure,graphql,mysql,django,angular,css,html,cypress,nginx,rabbitmq,powershell,postman,linux,git,markdown&theme=dark" />
 </p>
 
-## Github Stats
+## GitHub Stats
 
 <table>
 <tr>
@@ -61,6 +59,22 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/sesmi-athiyarath">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sesmias123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://medium.com/@sesmiat">
+    <img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium"/>
+  </a>
+</p>
 
 
 
