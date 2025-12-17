@@ -51,6 +51,17 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="25%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesmi123&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" /> 
+</td>
+<td width="75%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sesmi123&theme=tokyo-night&hide_border=true" />
+</td>
+</tr>
+</table>
+
 
 
 <!--
